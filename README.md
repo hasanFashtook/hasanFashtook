@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fashtookhasan@gmail.com**
 
-- 📄 Know about my experiences at [CV](https://drive.google.com/file/d/19eBwDwxplDHFfHvcY2pbOJUH_pzN54eL/view)
+- 📄 Know about my experiences at [CV](https://drive.google.com/file/d/1qVOoUKdY_wvWW-oQEHsl2rnM6ReQ0yEr/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to learn something new every day.**
 <!---

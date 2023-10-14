@@ -7,8 +7,8 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-React developer with 1+ years of experience building and maintaining high-performance, user-friendly web applications. Proven ability to work independently and as part of a team to deliver projects on time and within budget. Expertise in React, JavaScript, HTML, CSS, and related technologies.
-
+<h1>React developer with 1+ years of experience building and maintaining high-performance, user-friendly web applications. Proven ability to work independently and as part of a team to deliver projects on time and within budget. Expertise in React, JavaScript, HTML, CSS, and related technologies.
+</h1>
 - 🔍 Please visit my personal website: 
   - [Fashdev (Portfolio website)](https://devfash.netlify.app/)
 - 💬 Ask me about **ReactJs and Frontend**

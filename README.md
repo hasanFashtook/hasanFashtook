@@ -9,10 +9,19 @@
 
 <h1>React developer with 1+ years of experience building and maintaining high-performance, user-friendly web applications. Proven ability to work independently and as part of a team to deliver projects on time and within budget. Expertise in React, JavaScript, HTML, CSS, and related technologies.
 </h1>
-- 🔍 Please visit my personal website: 
-  - [Fashdev (Portfolio website)](https://devfash.netlify.app/)
+- 🔍 
+ 
+- 🌱 I’m currently learning **Next Js**
+  
+- 👨‍💻 All of my projects are available at [Portfolio](https://devfash.netlify.app/)
+
 - 💬 Ask me about **ReactJs and Frontend**
 
+- 📫 How to reach me **fashtookhasan@gmail.com**
+
+- 📄 Know about my experiences at [CV](https://drive.google.com/file/d/19eBwDwxplDHFfHvcY2pbOJUH_pzN54eL/view)
+
+- ⚡ Fun fact **I like to learn something new every day.**
 <!---
 hasanFashtook/hasanFashtook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
